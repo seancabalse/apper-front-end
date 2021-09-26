@@ -5,11 +5,7 @@
 
 .navbar-nav ul{
     list-style-type: none;
-    display: -webkit-flex;
-    display: -moz-flex;
-    display: -ms-flex;
-    display: -o-flex;
-    display: flex;  
+    display: flex;
     list-style: none;
 }
 
